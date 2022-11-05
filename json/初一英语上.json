@@ -1,0 +1,187 @@
+[
+    {
+        "id": "202209141146519665",
+        "title": "Lily has a black cat and a white cat. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "B",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(视频4)。"
+    },
+    {
+        "id": "202209141146202801",
+        "title": "Lucy has a computer and a TV. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "A",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(视频4)。"
+    },
+    {
+        "id": "202209141146999041",
+        "title": "The cat and the dog are good friends. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "A",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(视频4)。"
+    },
+    {
+        "id": "20220914114638084",
+        "title": "The TV is smaller than the computer. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "A",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(视频4)。"
+    },
+    {
+        "id": "202209141146332340",
+        "title": "The dog is smaller than the cat. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "B",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(视频4)。"
+    },
+    {
+        "id": "202209141146109562",
+        "title": "-->Is India _ English speaking country?-->I’ve no idea. Let’s go and ask Mr.Wu.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "B",
+        "analysis": "English是以元音开头的单词，因此要用an表示“一个”(视频4)。"
+    },
+    {
+        "id": "202209141146642432",
+        "title": "—>Do you enjoy your stay in Hangzhou?-->Yes. I’ve had _ wonderful time.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "have a wonderful time 是固定的词组搭配(视频4)。\n\n\n"
+    },
+    {
+        "id": "202209141222711663",
+        "title": "-->Tom,what’s on the desk?-->Can’t you see?There is _ pen on it.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "表示有\"一\"支笔(视频4)。"
+    },
+    {
+        "id": "202209141222510321",
+        "title": "My father is _ engineer. He works very hard.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "B",
+        "analysis": "engineer 是元音开头的单词，用an 表示\"一\"(视频4)\n"
+    },
+   {
+        "id": "202209141413680507",
+        "title": "-->Where is Xiao Ming? -->He’s having _ rest over there.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "have a rest 是固定的词组(视频4)。"
+    },
+    {
+        "id": "202209141413604816",
+        "title": "-->I saw _ beautiful bike in that shop yesterday.-->What color is it? Was it _ red one?",
+        "option": [
+            "a,a",
+            "a,the",
+            "the,the",
+            "the,a"
+        ],
+        "answer": "A",
+        "analysis": "表示”一”的概念(视频4)。\n"
+    },
+{
+        "id": "202209141447460264",
+        "title": " Let’s go to cinema, shall we?(填入正确的冠词)",
+        "option": [],
+        "answer": "Let’s go to the cinema, shall we?",
+        "analysis": "(视频4)"
+    },
+    {
+        "id": "202209141447769284",
+        "title": " Cow is a useful animal.(填入正确的冠词)",
+        "option": [],
+        "answer": "A Cow is a useful animal",
+        "analysis": "(视频4)"
+    },
+    {
+        "id": "202209141447107940",
+        "title": "Now many children learn to play piano after school.(填入正确的冠词)",
+        "option": [],
+        "answer": "Now many children learn to play the piano after school.\n",
+        "analysis": "乐器名称前用定冠词the。eg:play the piano, play the violin(视频4)"
+    },
+    {
+        "id": "20220914144717668",
+        "title": "Beijing is capital of people’s Republic of China.(填入正确的冠词)",
+        "option": [],
+        "answer": "Beijing is the capital of people’s Republic of China.",
+        "analysis": "用在专有名词前eg: the Great Wall, the People’s Republic of China(视频4)"
+    },
+    {
+        "id": "20220914144719756",
+        "title": "Please pass me English book on the desk.(填入正确的冠词)",
+        "option": [],
+        "answer": "Please pass me the English book on the desk.",
+        "analysis": "(视频4)"
+    },
+    {
+        "id": "202209141447443817",
+        "title": "This is first history lesson this term.(填入正确的冠词)",
+        "option": [],
+        "answer": "This is the first history lesson this term.",
+        "analysis": "(视频4)"
+    },
+    {
+        "id": "202209141447551951",
+        "title": "Have you ever been to Yellow River?(填入正确的冠词)",
+        "option": [],
+        "answer": "Have you ever been to the Yellow River?\n",
+        "analysis": "用在专有名词前eg: the Great Wall, the People’s Republic of China(视频4)\n"
+    },
+    {
+        "id": "202209141511822435",
+        "title": "Lend me all books you have.(填入正确的冠词)",
+        "option": [],
+        "answer": "Lend me all the books you have.\n",
+        "analysis": "当定冠词与 all ,half, both,double 等词连用，修饰名词时，定冠词要放在这些词之后(视频4)。"
+    },
+    {
+        "id": "202209141511379263",
+        "title": "Both windows are not open.(填入正确的冠词)",
+        "option": [],
+        "answer": "Both the windows are not open.\n",
+        "analysis": "当定冠词与 all ,half, both,double 等词连用，修饰名词时，定冠词要放在这些词之后(视频4)\n"
+    }
+]
