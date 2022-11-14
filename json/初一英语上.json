@@ -1,0 +1,493 @@
+[
+    {
+        "id": "202209141146519665",
+        "title": "Lily has a black cat and a white cat. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "B",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(冠词-1)。"
+    },
+    {
+        "id": "202209141146202801",
+        "title": "Lucy has a computer and a TV. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "A",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(冠词-1)。"
+    },
+    {
+        "id": "202209141146999041",
+        "title": "The cat and the dog are good friends. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "A",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(冠词-1)。"
+    },
+    {
+        "id": "20220914114638084",
+        "title": "The TV is smaller than the computer. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "A",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(冠词-1)。"
+    },
+    {
+        "id": "202209141146332340",
+        "title": "The dog is smaller than the cat. 冠词用法 (T(or)F？",
+        "option": [
+            "T",
+            "F"
+        ],
+        "answer": "B",
+        "analysis": "名词是秃子，常要戴帽子；可数名词单，须用a或an；辅音前用a，an用元音前；若为特指时，则须用定冠；复数不可数，泛指the不见；碰到代词时，冠词均不见(冠词-1)。"
+    },
+    {
+        "id": "202209141146109562",
+        "title": "-->Is India _ English speaking country?-->I’ve no idea. Let’s go and ask Mr.Wu.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "B",
+        "analysis": "English是以元音开头的单词，因此要用an表示“一个”(冠词-1)。"
+    },
+    {
+        "id": "202209141146642432",
+        "title": "—>Do you enjoy your stay in Hangzhou?-->Yes. I’ve had _ wonderful time.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "have a wonderful time 是固定的词组搭配(冠词-1)。\n\n\n"
+    },
+    {
+        "id": "202209141222711663",
+        "title": "-->Tom,what’s on the desk?-->Can’t you see?There is _ pen on it.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "表示有\"一\"支笔(冠词-1)。"
+    },
+    {
+        "id": "202209141222510321",
+        "title": "My father is _ engineer. He works very hard.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "B",
+        "analysis": "engineer 是元音开头的单词，用an 表示\"一\"(冠词-1)\n"
+    },
+   {
+        "id": "202209141413680507",
+        "title": "-->Where is Xiao Ming? -->He’s having _ rest over there.",
+        "option": [
+            "a",
+            "an",
+            "the",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "have a rest 是固定的词组(冠词-1)。"
+    },
+    {
+        "id": "202209141413604816",
+        "title": "-->I saw _ beautiful bike in that shop yesterday.-->What color is it? Was it _ red one?",
+        "option": [
+            "a,a",
+            "a,the",
+            "the,the",
+            "the,a"
+        ],
+        "answer": "A",
+        "analysis": "表示”一”的概念(冠词-1)。\n"
+    },
+   {
+        "id": "202209141447460264",
+        "title": " Let’s go to cinema, shall we?(填入正确的冠词)",
+        "option": [],
+        "answer": "Let's go to the cinema, shall we?",
+        "analysis": "(冠词-1)"
+    },
+    {
+        "id": "202209141447769284",
+        "title": " Cow is a useful animal.(填入正确的冠词)",
+        "option": [],
+        "answer": "A Cow is a useful animal.",
+        "analysis": "(冠词-1)"
+    },
+    {
+        "id": "202209141447107940",
+        "title": "Now many children learn to play piano after school.(填入正确的冠词)",
+        "option": [],
+        "answer": "Now many children learn to play the piano after school.",
+        "analysis": "乐器名称前用定冠词the。eg:play the piano, play the violin(冠词-1)"
+    },
+    {
+        "id": "20220914144717668",
+        "title": "Beijing is capital of people’s Republic of China.(填入正确的冠词)",
+        "option": [],
+        "answer": "Beijing is the capital of people's Republic of China.",
+        "analysis": "用在专有名词前eg: the Great Wall, the People’s Republic of China(冠词-1)"
+    },
+    {
+        "id": "20220914144719756",
+        "title": "Please pass me English book on the desk.(填入正确的冠词)",
+        "option": [],
+        "answer": "Please pass me the English book on the desk.",
+        "analysis": "(冠词-1)"
+    },
+    {
+        "id": "202209141447443817",
+        "title": "This is first history lesson this term.(填入正确的冠词)",
+        "option": [],
+        "answer": "This is the first history lesson this term.",
+        "analysis": "(冠词-1)"
+    },
+    {
+        "id": "202209141447551951",
+        "title": "Have you ever been to Yellow River?(填入正确的冠词)",
+        "option": [],
+        "answer": "Have you ever been to the Yellow River?",
+        "analysis": "用在专有名词前eg: the Great Wall, the People’s Republic of China(冠词-1)\n"
+    },
+    {
+        "id": "202209141511822435",
+        "title": "Lend me all books you have.(填入正确的冠词)",
+        "option": [],
+        "answer": "Lend me all the books you have.",
+        "analysis": "当定冠词与 all ,half, both,double 等词连用，修饰名词时，定冠词要放在这些词之后(冠词-1)。"
+    },
+    {
+        "id": "202209141511379263",
+        "title": "Both windows are not open.(填入正确的冠词)",
+        "option": [],
+        "answer": "Both the windows are not open.",
+        "analysis": "当定冠词与 all ,half, both,double 等词连用，修饰名词时，定冠词要放在这些词之后(冠词-1)\n"
+    },
+   {
+        "id": "202209171141821824",
+        "title": "-->_ you swim? -->Yes, but I’m not a good swimmer.",
+        "option": [
+            "Can",
+            "May",
+            "Need",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "情态动词can"
+    },
+    {
+        "id": "202209171141251813",
+        "title": "-->Would you like to see Beijing Opera with me tonight? -->I’d like to, but I’m afraid I _ . I have to write to my pen friend.",
+        "option": [
+            "need",
+            "needn’t",
+            "can’t",
+            "/"
+        ],
+        "answer": "C",
+        "analysis": "情态动词can"
+    },
+  {
+        "id": "202209171149132880",
+        "title": "需要帮忙吗/我可以帮你么?(翻译)",
+        "option": [],
+        "answer": "Can I help you?",
+        "analysis": "can 表示请求,多用于疑问句中.意思是-可以(情态动词can)。"
+    },
+    {
+        "id": "202209171149691965",
+        "title": "你可以告诉我去书店的路吗? (翻译)",
+        "option": [],
+        "answer": "Can you tell me the way to the bookstore?",
+        "analysis": "can 表示请求,多用于疑问句中.意思是-可以(情态动词can)"
+    },
+{
+        "id": "202209171211761382",
+        "title": "A:_ I finish my homework now?B:No, you _ . You _ do it tomorrow.",
+        "option": [],
+        "answer": "Must,needn't,may/can*Must,needn't,may*Must,needn't,can",
+        "analysis": "(情态动词can)。"
+    },
+    {
+        "id": "20220917121148159",
+        "title": "A:This pencil is very short, _ you still use it?B:No, I _. You _ buy one for me.",
+        "option": [],
+        "answer": "can,can't,must",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209171211162247",
+        "title": "A:_ I go out and play basketball, mum?B:No, you _ finish your homework first.",
+        "option": [],
+        "answer": "May/can,must*May,must*Can,must",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209171211799327",
+        "title": "A:_ I play football in the street?B:No,you _.",
+        "option": [],
+        "answer": "May/can,mustn't/can't*May,mustn't*Can,can't",  
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209171211158145",
+        "title": "A: _ you find many people in the doctor’s waiting room.B:No, I _.",
+        "option": [],
+        "answer": "Can,can't",
+        "analysis": "(情态动词can)\n"
+    },
+   {
+        "id": "202209171542461289",
+        "title": "这消息可能是真的吗?(翻译)",
+        "option": [],
+        "answer": "Can the news be true?",
+        "analysis": "can用于否定和疑问句中，表示可能性，意思是”可能”can’t意思是”不可能”(情态动词can)。"
+    },
+    {
+        "id": "202209171542758623",
+        "title": "他不可能在家。他的门是锁着的(翻译)",
+        "option": [],
+        "answer": "He can't be at home. His door is locked.",
+        "analysis": "can用于否定和疑问句中，表示可能性，意思是”可能”can’t意思是”不可能”(情态动词can)。\n"
+    },
+    {
+        "id": "202209181243619998",
+        "title": "-->Can you answer my question, Lily? -->Yes, I _.",
+        "option": [
+            "may",
+            "need",
+            "must",
+            "can"
+        ],
+        "answer": "D",
+        "analysis": "对于can的一般疑问句常用can来回答(情态动词can)"
+    },
+    {
+        "id": "202209181243788077",
+        "title": "-->I think Miss Gao must be in the library. She said she would go there. -->No, she _ be there. I have just been there.",
+        "option": [
+            "can’t",
+            "mustn’t",
+            "needn’t",
+            "wouldn’t"
+        ],
+        "answer": "A",
+        "analysis": "表示否定的-不可能要用can’t,而mustn’t表示-禁止的意思(情态动词can)\n"
+    },
+    {
+        "id": "202209181328779563",
+        "title": "-->Excuse me, _ you tell me the way to the nearest bus station? -->Sorry. I can’t. I’m a stranger here.",
+        "option": [
+            "xcuse",
+            "can",
+            "need",
+            "must",
+            "may",
+            "an"
+        ],
+        "answer": "A",
+        "analysis": "Can you tell me the way to ……为常用句型(情态动词can)\n"
+    },
+ {
+        "id": "202209181344930525",
+        "title": "We can eat in the dining room. But we _ eat in the classroom.",
+        "option": [
+            "don't",
+            "didn't",
+            "can't",
+            "aren't"
+        ],
+        "answer": "C",
+        "analysis": " (情态动词can)"
+    },
+    {
+        "id": "202209181344186730",
+        "title": "-->_ I take some photos in the hall? -->No, you _.",
+        "option": [
+            "Can,needn't",
+            "Must,mustn't",
+            "Could,won't",
+            "May,mustn't"
+        ],
+        "answer": "D",
+        "analysis": " (情态动词can)"
+    },
+    {
+        "id": "202209181344479524",
+        "title": "Can your brother swim?-->_.",
+        "option": [
+            "Yes,he can't",
+            "Yes,please",
+            "No,he can't",
+            "Yes,he does"
+        ],
+        "answer": "C",
+        "analysis": " (情态动词can)"
+    },
+    {
+        "id": "202209181344280425",
+        "title": "-->Can you cook fish? -->_. It’s easy.",
+        "option": [
+            "No, I can't",
+            "Yes, I can ",
+            "Sorry, I can't",
+            "Yes, I need"
+        ],
+        "answer": "B",
+        "analysis": " (情态动词can)\n"
+    },
+{
+        "id": "202209181356266143",
+        "title": "-->What are the school rules?-->We _ arrive late for class.",
+        "option": [
+            "don’t",
+            "can’t",
+            "aren’t",
+            "are"
+        ],
+        "answer": "B",
+        "analysis": " (情态动词can)"
+    },
+    {
+        "id": "202209181356431204",
+        "title": "I like swimming, but I _ swim.",
+        "option": [
+            "don’t",
+            "am",
+            "can’t",
+            "not"
+        ],
+        "answer": "C",
+        "analysis": " (情态动词can)"
+    },
+    {
+        "id": "202209181356970989",
+        "title": "-->I want to join the sports club.-->Can you _?-->Yes, I can.",
+        "option": [
+            "sing",
+            "dance",
+            "paint",
+            "swim"
+        ],
+        "answer": "D",
+        "analysis": " (情态动词can)\n"
+    },  {
+        "id": "20220918140966292",
+        "title": "Run in the hallways.(改否定句)>_ _ in the hallways.",
+        "option": [],
+        "answer": "Don't,run",
+        "analysis": " (情态动词can)。"
+    },
+    {
+        "id": "202209181409285530",
+        "title": "I have to get up at six.(改一般疑问句)>_ you _ to get up at six?",
+        "option": [],
+        "answer": "Do,have",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209181409969318",
+        "title": "I can eat in the dining hall.(提问句)>_ _ you eat?",
+        "option": [],
+        "answer": "Where,can",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209181409642300",
+        "title": "We have to clean the room.(提问句)>_ do you have to_?",
+        "option": [],
+        "answer": "What,do",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209181409178357",
+        "title": " late, can, arrive, for, we, not, school(连成一句)",
+        "option": [],
+        "answer": "We can not arrive late for school.",
+        "analysis": "(情态动词can)\n"
+    },
+  {
+        "id": "202209211226466340",
+        "title": " Lingling can ride a horse.(改一般疑问句)",
+        "option": [],
+        "answer": "Can Lingling ride a horse?",
+        "analysis": " (情态动词can)。"
+    },
+    {
+        "id": "202209211226530425",
+        "title": "I Can speak Chinese.(改一般疑问句)",
+        "option": [],
+        "answer": "Can you spesk Chinese?",
+        "analysis": "(情态动词can)"
+    },
+{
+        "id": "202209211232993813",
+        "title": " Lingling and Daming can play the piano.(改一般疑问句)",
+        "option": [],
+        "answer": "Can Lingling and Daming play the piano?",
+        "analysis": " (情态动词can)。"
+    },
+    {
+        "id": "202209211232313702",
+        "title": "My father can play table tennis.(改一般疑问句)",
+        "option": [],
+        "answer": "Can your father play table tennis?",
+        "analysis": "(情态动词can)\n"
+    },
+    {
+        "id": "202209211240357299",
+        "title": " Lingling can ride a horse.(变为否定句)",
+        "option": [],
+        "answer": "Lingling can't ride a horse.",
+        "analysis": " (情态动词can)。"
+    },
+    {
+        "id": "202209211240438468",
+        "title": "He can speak Chinese.",
+        "option": [],
+        "answer": "He can't speak Chinese.",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209211240663897",
+        "title": "Lingling and Daming can play the piano.",
+        "option": [],
+        "answer": "Lingling and Daming can't play the piano.",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "20220921124095410",
+        "title": "My father can play table tennis.",
+        "option": [],
+        "answer": "My father can't play table tennis.",
+        "analysis": "(情态动词can)"
+    },
+    {
+        "id": "202209211240560883",
+        "title": "She can swim.",
+        "option": [],
+        "answer": "She can't swim.",
+        "analysis": "(情态动词can)\n"
+    }
+]
