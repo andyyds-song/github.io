@@ -161,7 +161,7 @@
 
 
             <div class="option"  id='go'>
-                <div v-for="(i,k) in timu.option" v-key='k' @click='select(k)' :class='daan.indexOf(k)!=-1?"active":""'>
+                <div v-for="(i,k) in timu.option" v-key='k' @click='select(k)' :class='daan.indexOf(k)!=-1?"active":""' >
                     {{zidian[k]}}.{{i}}</div>
             </div>
             <div type="success" v-if='answer&&result===1' class='result success'>恭喜回答正确</div>
@@ -216,7 +216,7 @@
                 data: [],
                 page: 0,
                 timu: {},
-                zidian: ['A', 'B', 'C', 'D', 'E'],
+                zidian: ['A', 'B', 'C', 'D', 'E','F','G','H'],
                 daan: [],
                 answer: false,
                 result: false
@@ -235,15 +235,16 @@
                 },
                 huida() {
                     let answer = this.timu.answer.split('')			//正确答案
+                    //console.log(this.timu.answer)
 	   //console.log(this.daan)
-	   //console.log(this.timu.option)			                 //答案选择框内容
+	  //console.log(this.timu.option)			                 //答案选择框内容
                     //console.log(answer)
                     this.result = 1;
                     if (this.daan.length != answer.length) {
                         this.result = 0;
                     } else {
                         for (i in this.daan) {
-                            console.log(this.zidian[this.daan[i]])                            
+                            //console.log(this.zidian[this.daan[i]])                            
                             if (answer.indexOf(this.zidian[this.daan[i]]) == -1) {
                                 this.result = 0;
                             }
@@ -258,16 +259,28 @@
                     if (this.timu.option.length===1){   			 //列表只有一个判断填空
 
 		//alert('go')
+		
 		let myString = '';
 		for (i in answer){
 
-		myString = myString + answer[i]//.trim();			//正确答案
+		myString = myString + answer[i]			//正确答案
 
 		}
-		console.log(answer);
-		console.log(myString);
-		console.log(this.timu.option[0].trim())
-		if (myString === this.timu.option[0].trim()){
+		
+		//console.log(answer);                                                //显示正确答案列表
+                                   
+		//console.log(this.timu.option[0].split(''))                          //显示输入答案列表
+		//console.log(myString);
+		//console.log(this.timu.option[0].trim())
+		
+		if(myString.indexOf('*')!=-1){                                        //填空答案有不同用*隔离
+			var n = myString.split("*");
+			this.result = judge(n,this.timu.option[0].trim())
+
+
+		}else{                                                                                                             //填空只有一个答案
+                                   this.timu.option[0] = clean(this.timu.option[0].split(''))
+		if (myString === this.timu.option[0]){
 
 			 //alert(this.result )
 			
@@ -278,6 +291,8 @@
 			this.result = 0;
 
 			}
+
+}
 
 	}//判断结束
 
@@ -316,7 +331,7 @@
                 del() {
                     let wrong = JSON.parse(localStorage["wrong_" + sessionStorage.id])
                     let index = wrong.indexOf(this.timu.id)
-                    console.log(index)
+                    //console.log(index)
                     wrong.splice(index, 1)
                     localStorage["wrong_" + sessionStorage.id] = JSON.stringify(wrong)
                     this.$Message.success('删除错题记录成功！');
@@ -340,9 +355,9 @@
                     this.answer = false;
                     //新题目
                     this.timu = this.data[this.page];
-                    // let ii = document.getElementById('go').innerHTML
-                    //console.log(this.daan)
-
+                   let ii = document.getElementById('go').innerHTML
+                   // console.log(ii)
+	 console.log(this.timu.answer)		//答案提示
 
                    // var  change = JSON.stringify(this.timu)
 
@@ -352,18 +367,24 @@
                        // this.answer = true;
                         this.result =2;
 
-	
-                 console.log(change.answer)
-  	let card = `<div class=""><input type = "text" id ='myanswer' class = "myline"   style="width:800px;"" ></div>	`	//篡改Card内容
-	$('#go').html(card)						//提交到网页
-                 $('#myanswer').focus()					//获取输入焦点
 
+                 //console.log(change.answer)
+  	let card = `<div class=""><input type = "text" id ='myanswer' class = "myline"   style="width:800px;" ></div>`         //篡改Card内容
+	$('#go').html(card)
+
+
+							//提交到网页
+                 $('#myanswer').focus()					                //获取输入焦点
+                 
 	$('#myanswer').blur(function(){					//失去焦点时
-	let input =$('#myanswer').val()
+
+	let input = $('#myanswer').val()
 	change.option=[input]
 	//change.option=[change.answer]
                  card=''						//返回本选项的Card空内容
                  $('#go').html(card)   
+
+
 	})
 	
 
@@ -443,6 +464,61 @@
                     });
             }
         })
+
+
+function judge(change,data){
+ 	var items = []
+	if (change.length >1){
+   
+ 		for(i in change){
+
+       			if(change[i] ===data){
+  				items.push("true")
+
+			}else{
+ 				items.push("false")
+
+			}
+
+
+		}
+
+
+
+	}
+
+
+
+	//console.log( items)
+	let found = items.find(item => { return item ==="true" } );
+	if(found){
+ 		 return 1;
+
+	}else{
+		return 0;
+	}
+
+}
+
+function clean (str){  					//清洗输入字符多个连续空格问题
+    //将数组进行排序  
+    //定义结果数组  
+    let change= ''
+    let arr=[];  
+    for(i in str){    //从数组第二项开始循环遍历数组  
+        //判断相邻两个元素是否相等，如果相等说明数据重复，否则将元素写入结果数组  
+        if(str[i] !=' ' || str[i]===" " && str[i]!== arr[arr.length - 1]){  
+            arr.push(str[i]);  
+        }              
+    }  
+   for (i in arr){
+       change = change + arr[i]
+   }
+      //console.log(change.trim())
+      return change.trim()
+}
+
+
     </script>
 </body>
 
