@@ -1,0 +1,509 @@
+[
+    {
+        "id": "202211191349997115",
+        "title": "你在那儿还看到了别人的什么人（什么东西）？（翻译）",
+        "option": [],
+        "answer": "Who else did you see there?*What else did you see there?",
+        "analysis": "what和who后可以跟else，表示其他的人（或事物），但通常不跟表示特定范围的of短语；而which后一般不接else，却常与表特定范围的of短语连用；"
+    },
+ {
+        "id": "202211191440404745",
+        "title": "how much（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "C",
+        "analysis": " "
+    },
+ {
+        "id": "20221119144823338",
+        "title": "how often（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "H",
+        "analysis": " "
+    },
+   {
+        "id": "202211191450611160",
+        "title": "how many（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "E",
+        "analysis": " "
+    },
+{
+        "id": "202211191452491657",
+        "title": "how soon（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "A",
+        "analysis": " "
+    },
+   {
+        "id": "202211191454475210",
+        "title": "how long（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "D",
+        "analysis": " "
+    },
+   {
+        "id": "202211191455835794",
+        "title": "how old（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "B",
+        "analysis": " "
+    },
+   {
+        "id": "202211191457100981",
+        "title": "how far（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "F",
+        "analysis": " "
+    },
+   {
+        "id": "202211191458585800",
+        "title": "how about（找出恰当翻译）",
+        "option": [
+            "多久",
+            "多大（年龄）",
+            "多少（钱……）",
+            "多长（时间、物品）",
+            "多少（数量）",
+            "多远（距离）",
+            "……怎么样",
+            "多久一次（频率）"
+        ],
+        "answer": "G",
+        "analysis": " "
+    },
+
+    {
+        "id": "202211181515276673",
+        "title": "__ pen is red. __pencil is green.",
+        "option": [
+            "this,that",
+            "These,Those",
+            "That,Those",
+            "This,That"
+        ],
+        "answer": "D",
+        "analysis": "this these 靠近我，that those 离我远，this that 指单数，these those 不指单，都可用the 来代替。"
+    },
+    {
+        "id": "202211181515729189",
+        "title": "Is __ a panda over there?",
+        "option": [
+            "this",
+            "that",
+            "those",
+            "there"
+        ],
+        "answer": "B",
+        "analysis": "this these 靠近我，that those 离我远，this that 指单数，these those 不指单，都可用the 来代替。"
+    },
+    {
+        "id": "202211181515455394",
+        "title": "-->__ two girls are Mary and Linda.",
+        "option": [
+            "This",
+            "They",
+            "That",
+            "Those"
+        ],
+        "answer": "D",
+        "analysis": "this these 靠近我，that those 离我远，this that 指单数，these those 不指单，都可用the 来代替"
+    },
+    {
+        "id": "202211181515606857",
+        "title": "__ is Mr. White and __ is my Father.",
+        "option": [
+            "This,those",
+            "That,these",
+            "These,these",
+            "This,this"
+        ],
+        "answer": "D",
+        "analysis": "this these 靠近我，that those 离我远，this that 指单数，these those 不指单，都可用the 来代替"
+    },
+
+{
+        "id": "202211181608113318",
+        "title": "I think __ important to learn English well.",
+        "option": [
+            "that",
+            "this",
+            "it",
+            "they"
+        ],
+        "answer": "C",
+        "analysis": "it 一般表示人以外的动物和东西，是单数名词的代词，译为“它”，还可以表示天气、时间、距离等。 "
+    },
+    {
+        "id": "20221118160882442",
+        "title": "__ is our duty to keep our city clean.",
+        "option": [
+            "This",
+            "That",
+            "It",
+            "What"
+        ],
+        "answer": "C",
+        "analysis": "it 一般表示人以外的动物和东西，是单数名词的代词，译为“它”，还可以表示天气、时间、距离等。"
+    },
+    {
+        "id": "202211181608354278",
+        "title": "-->What’s wrong with your pen? --> __ doesn’t work.",
+        "option": [
+            "This",
+            "That",
+            "It",
+            "What"
+        ],
+        "answer": "C",
+        "analysis": "it 一般表示人以外的动物和东西，是单数名词的代词，译为“它”，还可以表示天气、时间、距离等。"
+    },
+    {
+        "id": "202211181608431158",
+        "title": "I found __ hard to finish this task.",
+        "option": [
+            "it",
+            "this",
+            "that",
+            "these"
+        ],
+        "answer": "A",
+        "analysis": "it 一般表示人以外的动物和东西，是单数名词的代词，译为“它”，还可以表示天气、时间、距离等。\n"
+    },
+    {
+        "id": "202211181630463134",
+        "title": "谁在会上发言了？（翻译）",
+        "option": [],
+        "answer": "Who spoke at the meeting?",
+        "analysis": "who与 whom:前者为主格，用作主语，后者为宾格，用作宾语"
+    },
+    {
+        "id": "202211181630166038",
+        "title": "你们在谈论谁？（翻译）",
+        "option": [],
+        "answer": "Whom are you talking about?",
+        "analysis": "who与 whom:前者为主格，用作主语，后者为宾格，用作宾语"
+    },
+    {
+        "id": "202211181630711415",
+        "title": "这信是谁寄来的？（翻译）",
+        "option": [],
+        "answer": "Who is the letter from?/Whom is the letter from?\n",
+        "analysis": "单当用作宾语的 whom 位于句首时，通常可以用who代替。"
+    },
+    {
+        "id": "202211181630196157",
+        "title": " To __ did you speak on the phone?",
+        "option": [
+            "Whom",
+            "Who",
+            "Whose",
+            "/"
+        ],
+        "answer": "A",
+        "analysis": "whose 用来询问某物属于谁的"
+    },
+  {
+        "id": "202211191309331120",
+        "title": "There are two cups here. __ is yours?",
+        "option": [
+            "which",
+            "what"
+        ],
+        "answer": "A",
+        "analysis": "当选择范围小或者比较明确时，多用which；当选择范围大或者不明确时，多用what。"
+    },
+    {
+        "id": "202211191309986448",
+        "title": " 红色，黑色和白色，你喜欢哪种？(翻译)",
+        "option": [],
+        "answer": "Which color do you like, red, black or white?",
+        "analysis": " 当选择范围小或者比较明确时，多用which；当选择范围大或者不明确时，多用what。"
+    },
+    {
+        "id": "202211191309791262",
+        "title": "你喜欢什么颜色？",
+        "option": [],
+        "answer": "What color do you like?",
+        "analysis": "当选择范围小或者比较明确时，多用which；当选择范围大或者不明确时，多用what。\n"
+    },
+    {
+        "id": "202211191349885498",
+        "title": " 他是谁？(翻译)",
+        "option": [],
+        "answer": "Who is he?",
+        "analysis": " who 指姓名、关系等"
+    },
+    {
+        "id": "20221119134981451",
+        "title": "他是干什么的？（翻译）",
+        "option": [],
+        "answer": "What is he?",
+        "analysis": "what 指职业、地位等 "
+    },
+    {
+        "id": "202211191349990596",
+        "title": "这三个女孩中哪个年纪最大？（翻译）",
+        "option": [],
+        "answer": "Which of the three girls is the oldest?",
+        "analysis": "what和who后可以跟else，表示其他的人（或事物），但通常不跟表示特定范围的of短语；而which后一般不接else，却常与表特定范围的of短语连用\n"
+    },
+{
+        "id": "202211191417715625",
+        "title": " 桌子上的这些书是谁的？(翻译)",
+        "option": [],
+        "answer": "Whose are these books on the desk?",
+        "analysis": " 疑问代词在句中应该位于谓语动词之前，没有性和数的变化，除who之外也没有格的变化。what，which，whose还可作限定词。"
+    },
+    {
+        "id": "202211191417111267",
+        "title": "桌子上这些是谁的书？（翻译）",
+        "option": [],
+        "answer": "Whose books are these on the desk?",
+        "analysis": "疑问代词在句中应该位于谓语动词之前，没有性和数的变化，除who之外也没有格的变化。what，which，whose还可作限定词。 "
+    },
+    {
+        "id": "202211191417245197",
+        "title": "你喜欢哪几个姑娘？（翻译）",
+        "option": [],
+        "answer": "Which girls do you like best?",
+        "analysis": "无论是做疑问代词还是限定词，which和what所指的范围不同，what所指的范围无限，而which则指在一定的范围内"
+    },
+    {
+        "id": "202211191417264705",
+        "title": "你喜欢什么样的姑娘？（翻译）",
+        "option": [],
+        "answer": "What girls do you like best?",
+        "analysis": "无论是做疑问代词还是限定词，which和what所指的范围不同，what所指的范围无限，而which则指在一定的范围内\n"
+    },
+{
+        "id": "202211191433218012",
+        "title": "今天星期几？(翻译)",
+        "option": [],
+        "answer": "What day is it today?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191433334585",
+        "title": "现在几点钟？（翻译）",
+        "option": [],
+        "answer": "What time is it now?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191433963433",
+        "title": "去购物怎么样？（翻译）",
+        "option": [],
+        "answer": "What about going shopping?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191433921315",
+        "title": "你上几年级？（翻译）",
+        "option": [],
+        "answer": "What grade are you in?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191433501597",
+        "title": "你最喜欢什么颜色？（翻译）",
+        "option": [],
+        "answer": "What color do you like best?",
+        "analysis": ""
+    },
+{
+        "id": "202211191507862288",
+        "title": "你好？（第一次见面）(翻译)",
+        "option": [],
+        "answer": "How do you do?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191507286191",
+        "title": "你好吗？（询问身体状况）（翻译）",
+        "option": [],
+        "answer": "How are you?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191507636814",
+        "title": "你每天是怎么样上学的？（询问方式）（翻译）",
+        "option": [],
+        "answer": "How do you go to school every day?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191507735836",
+        "title": "情况怎么样？（询问事情进展）（翻译）",
+        "option": [],
+        "answer": "How’s it going?",
+        "analysis": ""
+    },
+ {
+        "id": "202211191514296659",
+        "title": "这些苹果多少钱？（what，how）(翻译)",
+        "option": [],
+        "answer": "What’s the price of the apples?*How much are the apples?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191514752042",
+        "title": "去散散步怎么样？（what，how）（翻译）",
+        "option": [],
+        "answer": "What about taking a walk?*How about taking a walk?",
+        "analysis": " "
+    },
+    {
+        "id": "202211191514391976",
+        "title": "你儿子多大了？（what，how）（翻译）",
+        "option": [],
+        "answer": "How old is your son?*What’s the age of you son?",
+        "analysis": "\n"
+    },
+   {
+        "id": "202211191523120965",
+        "title": "Excuse me,__ is the way to the nearest supermarket?（09济南中考）",
+        "option": [
+            "where",
+            "which",
+            "why",
+            "who"
+        ],
+        "answer": "B",
+        "analysis": " "
+    },
+    {
+        "id": "202211191523619860",
+        "title": "-->Are you going to buy a camera?-->Yes, But there are so many kinds that I can’t decide __ to buy.",
+        "option": [
+            "what",
+            "which",
+            "how",
+            "where"
+        ],
+        "answer": "B",
+        "analysis": ""
+    },
+    {
+        "id": "202211191523676249",
+        "title": "Did you find __ very interesting to play computer games?",
+        "option": [
+            "this",
+            "it’s",
+            "that",
+            "it"
+        ],
+        "answer": "D",
+        "analysis": " "
+    },
+{
+        "id": "202211191538162957",
+        "title": "-->__ is your uncle?-->He is a businessman. ",
+        "option": [
+            "Who",
+            "What",
+            "Whose",
+            "Whom"
+        ],
+        "answer": "B",
+        "analysis": " What is sb.是询问职业的句子，从回答来看应该选它"
+    },
+    {
+        "id": "202211191538162536",
+        "title": "--> __ is that woman in red? -->She is my music teacher.",
+        "option": [
+            "Who",
+            "What",
+            "Whom",
+            "Whose"
+        ],
+        "answer": "A",
+        "analysis": "从回答看出应该是谁，并且做主语，应用主格"
+    },
+    {
+        "id": "202211191538848623",
+        "title": "-->__do you like better, English or math?-->English,of course.",
+        "option": [
+            "What",
+            "Which",
+            "Whom",
+            "Whose"
+        ],
+        "answer": "B",
+        "analysis": "有范围选择，用which"
+    },
+    {
+        "id": "20221119153837672",
+        "title": "With __ are you going shopping? My mother.",
+        "option": [
+            "Who",
+            "Whose",
+            "Whom",
+            "Which"
+        ],
+        "answer": "C",
+        "analysis": "放在介词后面只能用宾格 "
+    }
+]
