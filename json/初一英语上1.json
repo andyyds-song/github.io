@@ -125,7 +125,7 @@
         "id": "202209141447460264",
         "title": " Let’s go to cinema, shall we?(填入正确的冠词)",
         "option": [],
-        "answer": "Let's go to the cinema, shall we?",
+        "answer": "Let’s go to the cinema, shall we?",
         "analysis": "(冠词-1)"
     },
     {
@@ -146,7 +146,7 @@
         "id": "20220914144717668",
         "title": "Beijing is capital of people’s Republic of China.(填入正确的冠词)",
         "option": [],
-        "answer": "Beijing is the capital of people's Republic of China.",
+        "answer": "Beijing is the capital of people’s Republic of China.",
         "analysis": "用在专有名词前eg: the Great Wall, the People’s Republic of China(冠词-1)"
     },
     {
@@ -226,14 +226,14 @@
         "id": "202209171211761382",
         "title": "A:_ I finish my homework now?B:No, you _ . You _ do it tomorrow.",
         "option": [],
-        "answer": "Must,needn't,may/can*Must,needn't,may*Must,needn't,can",
+        "answer": "Must,needn’t,may/can*Must,needn’t,may*Must,needn’t,can",
         "analysis": "(情态动词can)。"
     },
     {
         "id": "20220917121148159",
         "title": "A:This pencil is very short, _ you still use it?B:No, I _. You _ buy one for me.",
         "option": [],
-        "answer": "can,can't,must",
+        "answer": "can,can’t,must",
         "analysis": "(情态动词can)"
     },
     {
@@ -247,14 +247,14 @@
         "id": "202209171211799327",
         "title": "A:_ I play football in the street?B:No,you _.",
         "option": [],
-        "answer": "May/can,mustn't/can't*May,mustn't*Can,can't",  
+        "answer": "May/can,mustn’t/can’t*May,mustn’t*Can,can’t",  
         "analysis": "(情态动词can)"
     },
     {
         "id": "202209171211158145",
         "title": "A: _ you find many people in the doctor’s waiting room.B:No, I _.",
         "option": [],
-        "answer": "Can,can't",
+        "answer": "Can,can’t",
         "analysis": "(情态动词can)\n"
     },
    {
@@ -268,7 +268,7 @@
         "id": "202209171542758623",
         "title": "他不可能在家。他的门是锁着的(翻译)",
         "option": [],
-        "answer": "He can't be at home. His door is locked.",
+        "answer": "He can’t be at home. His door is locked.",
         "analysis": "can用于否定和疑问句中，表示可能性，意思是”可能”can’t意思是”不可能”(情态动词can)。\n"
     },
     {
@@ -299,12 +299,10 @@
         "id": "202209181328779563",
         "title": "-->Excuse me, _ you tell me the way to the nearest bus station? -->Sorry. I can’t. I’m a stranger here.",
         "option": [
-            "xcuse",
             "can",
             "need",
             "must",
-            "may",
-            "an"
+            "may"
         ],
         "answer": "A",
         "analysis": "Can you tell me the way to ……为常用句型(情态动词can)\n"
