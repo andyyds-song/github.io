@@ -1,5 +1,6 @@
 const JSONList = [
     { id: "2023", name: '企业安全题库', describe: '题试卷，包含选择和简答题，', file: "危险性较高企业安全管理人员培训练习题.json" },
+    { id: "2023", name: '企业安全题库(提高)', describe: '题试卷，包含选择和简答题，', file: "危险性较高企业安全管理人员培训练习题(提高).json" },
     { id: "2023", name: '单词的过去式', describe: '初一下册过去式练习', file: "过去式.json" },
     { id: "2022-1", name: '初一英语上1', describe: '题试卷，包含选择和简答题，', file: "初一英语上1.json" },
     { id: "2022-2", name: '初一英语上2', describe: '题试卷，包含选择和简答题，', file: "初一英语上2.json" },
