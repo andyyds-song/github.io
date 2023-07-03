@@ -1,0 +1,354 @@
+[
+    {
+        "id": "202307031501303402",
+        "title": " 绘图命令：点",
+        "option": [],
+        "answer": "PO",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501830385",
+        "title": "绘图命令：直线",
+        "option": [],
+        "answer": "L",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501354033",
+        "title": "绘图命令：射线",
+        "option": [],
+        "answer": "XL",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501685138",
+        "title": "绘图命令：多线段",
+        "option": [],
+        "answer": "PL",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501735966",
+        "title": "绘图命令：多线",
+        "option": [],
+        "answer": "ML",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501200691",
+        "title": "绘图命令：样条线",
+        "option": [],
+        "answer": "SPL",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501416533",
+        "title": "绘图命令：正多边形",
+        "option": [],
+        "answer": "POL",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501462589",
+        "title": "绘图命令：矩形",
+        "option": [],
+        "answer": "REC",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501681453",
+        "title": "绘图命令：圆",
+        "option": [],
+        "answer": "C",
+        "analysis": ""
+    },
+    {
+        "id": "20230703150138070",
+        "title": "绘图命令：圆弧",
+        "option": [],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501363270",
+        "title": "绘图命令：圆环",
+        "option": [],
+        "answer": "D",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501716643",
+        "title": "绘图命令：椭圆",
+        "option": [],
+        "answer": "E",
+        "analysis": ""
+    },
+    {
+        "id": "20230703150146406",
+        "title": "绘图命令：面域",
+        "option": [],
+        "answer": "REG",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501968023",
+        "title": "绘图命令：多行文本",
+        "option": [],
+        "answer": "MT",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501874358",
+        "title": "绘图命令：单行文本",
+        "option": [],
+        "answer": "T",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501547892",
+        "title": "绘图命令：块定义",
+        "option": [],
+        "answer": "B",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501450789",
+        "title": "绘图命令：插入块",
+        "option": [],
+        "answer": "I",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501362526",
+        "title": "绘图命令：定义块文件",
+        "option": [],
+        "answer": "W",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501112536",
+        "title": "绘图命令：等分",
+        "option": [],
+        "answer": "D",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501803358",
+        "title": "绘图命令：定距等分",
+        "option": [],
+        "answer": "ME",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501667616",
+        "title": "绘图命令：填充",
+        "option": [],
+        "answer": "H",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501931508",
+        "title": "修改命令：复制",
+        "option": [],
+        "answer": "C",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501772969",
+        "title": "修改命令：镜像",
+        "option": [],
+        "answer": "MI",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501704408",
+        "title": "修改命令：列阵",
+        "option": [],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501861964",
+        "title": "修改命令：偏移",
+        "option": [],
+        "answer": "O",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501948638",
+        "title": "修改命令：旋转",
+        "option": [],
+        "answer": "RO",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501820036",
+        "title": "修改命令：移动",
+        "option": [],
+        "answer": "M",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501899162",
+        "title": "修改命令：删除",
+        "option": [],
+        "answer": "E",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501684550",
+        "title": "修改命令：分解",
+        "option": [],
+        "answer": "X",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501398853",
+        "title": "修改命令：修剪",
+        "option": [],
+        "answer": "TR",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501385071",
+        "title": "修改命令：延伸",
+        "option": [],
+        "answer": "E",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501599323",
+        "title": "修改命令：拉伸",
+        "option": [],
+        "answer": "S",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501941078",
+        "title": "修改命令：直线拉长",
+        "option": [],
+        "answer": "LEN",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501491054",
+        "title": "修改命令：比例缩放",
+        "option": [],
+        "answer": "SC",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501654584",
+        "title": "修改命令：打断",
+        "option": [],
+        "answer": "B",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501445519",
+        "title": "修改命令：倒角",
+        "option": [],
+        "answer": "C",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501181928",
+        "title": "修改命令：倒圆角",
+        "option": [],
+        "answer": "F",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501243428",
+        "title": "修改命令：多段线编辑",
+        "option": [],
+        "answer": "PE",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501652031",
+        "title": "修改命令：修改文本",
+        "option": [],
+        "answer": "ED",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501399647",
+        "title": "对象特征：重生成",
+        "option": [],
+        "answer": "RE",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501542597",
+        "title": "尺寸标注：直线标注",
+        "option": [],
+        "answer": "D",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501935332",
+        "title": "尺寸标注：对齐标注",
+        "option": [],
+        "answer": "DA",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501248492",
+        "title": "尺寸标注：半径标注",
+        "option": [],
+        "answer": "DEA",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501278625",
+        "title": "尺寸标注：直径标注",
+        "option": [],
+        "answer": "DD",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501668147",
+        "title": "尺寸标注：角度标注",
+        "option": [],
+        "answer": "DA",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501725905",
+        "title": "尺寸标注：中心标注",
+        "option": [],
+        "answer": "DCE",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501840168",
+        "title": "尺寸标注：点标注",
+        "option": [],
+        "answer": "D",
+        "analysis": ""
+    },
+    {
+        "id": "20230703150112097",
+        "title": "尺寸标注：快速引出标注",
+        "option": [],
+        "answer": "LE",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501142717",
+        "title": "尺寸标注：标注样式",
+        "option": [],
+        "answer": "D",
+        "analysis": ""
+    },
+    {
+        "id": "202307031501904795",
+        "title": "对象特征：用户坐标系",
+        "option": [
+            "S"
+        ],
+        "answer": "UCS",
+        "analysis": ""
+    }
+]
