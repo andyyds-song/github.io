@@ -1,5 +1,6 @@
 const JSONList = [
     { id: "2023", name: '初二(上)Module-1', describe: '题试卷，简答题，', file: '初二上Module1.json'},
+    { id: "2023", name: '初二(上)Module-2', describe: '题试卷，简答题，', file: '初二上Module2.json'},
     { id: "2023", name: '初二历史第一次鸦片战争', describe: '题试卷，简答题，', file: "第一次鸦片战争.json" },
     { id: "2023", name: 'CAD快捷指令练习', describe: '题试卷，包含选择和简答题，', file: "cad.json" },
     { id: "2023", name: '单词的过去式', describe: '初一下册过去式练习', file: "过去式.json" },
