@@ -5,5 +5,19 @@
         "option": [],
         "answer": "farther/further,furthestfarthest",
         "analysis": ""
-    }
+    },
+  {
+        "id": "202209171211162247",
+        "title": "A:_ I go out and play basketball, mum?B:No, you _ finish your homework first.",
+        "option": [],
+        "answer": "May/can,must*May,must*Can,must",
+        "analysis": "(情态动词can)"
+    },
+   {
+        "id": "202209171211799327",
+        "title": "A:_ I play football in the street?B:No,you _.",
+        "option": [],
+        "answer": "May/can,mustn’t/can’t*May,mustn’t*Can,can’t",  
+        "analysis": "(情态动词can)"
+    },
 ]
