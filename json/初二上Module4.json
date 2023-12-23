@@ -1,7 +1,7 @@
 [
     {
         "id": "202312231244295100",
-        "title": "\t.choose u.选择-->__ (名词)选择",
+        "title": "\t.choose v.选择-->__ (名词)选择",
         "option": [],
         "answer": "choice",
         "analysis": ""
@@ -15,7 +15,7 @@
     },
     {
         "id": "202312231244830094",
-        "title": "\tclose adi.(距离上)近的,接近的 adv.(距离上)接近地-->__ (反义词)远(的);遥远(的)",
+        "title": "\tclose adj.(距离上)近的,接近的 adv.(距离上)接近地-->__ (反义词)远(的);遥远(的)",
         "option": [],
         "answer": "far",
         "analysis": ""
