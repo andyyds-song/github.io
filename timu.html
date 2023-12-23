@@ -240,11 +240,11 @@
                     }
                 },
                 huida() {
-                    let answer = this.timu.answer.split('')			//正确答案
+                    let answer = this.timu.answer.split('')			         //正确答案
                     //console.log(this.timu.answer)
-	   //console.log(this.daan)
-	  //console.log(this.timu.option)			                 //答案选择框内容
-                    //console.log(answer)
+	            console.log(this.daan)
+	            //console.log(this.timu.option)			                 //答案选择框内容
+                    console.log(answer)
                     this.result = 1;
                     if (this.daan.length != answer.length) {
 
@@ -252,7 +252,7 @@
                         this.result = 0;
                     } else {
                         for (i in this.daan) {
-                            //console.log(this.zidian[this.daan[i]])                            
+                    //console.log(this.zidian[this.daan[i]])                            
                             if (answer.indexOf(this.zidian[this.daan[i]]) == -1) {
                                 this.result = 0;
                             }
@@ -262,16 +262,16 @@
 
 
 
-	//添加判断 --》放最后因为： 有其他判断会篡改this.result的数据导致无法生效此判断
+	 //添加判断 --》放最后因为： 有其他判断会篡改this.result的数据导致无法生效此判断
 
-                    if (this.timu.option.length===1){   			 //列表只有一个判断填空
+                    if (this.timu.option.length===1){   			     //列表只有一个判断填空
 
-		//alert('go')
+		    //alert('go')
 		
 		let myString = '';
 		for (i in answer){
 
-		myString = myString + answer[i]			//正确答案
+		myString = myString + answer[i]			                      //正确答案
 
 		}
 		
@@ -287,18 +287,18 @@
 
 
 		}else{                                                                                                             //填空只有一个答案
-                                   this.timu.option[0] = clean(this.timu.option[0].split(''))
-		if (myString === this.timu.option[0]){
+                	 this.timu.option[0] = clean(this.timu.option[0].split(''))
+			 if (myString === this.timu.option[0]){
 
 			 //alert(this.result )//填空题答案正确
 			
-  			 this.result = 1;
-			$('#myanswer').parent().remove();
+  				this.result = 1;
+				$('#myanswer').parent().remove();
 	
 
-		}else{
-			this.result = 0;
-			$('#myanswer').parent().remove();  
+				}else{
+					this.result = 0;
+					$('#myanswer').parent().remove();  
 
 
 			}
@@ -402,7 +402,7 @@
 	let input = $('#myanswer').val()
 	change.option=[input]
 	//change.option=[change.answer]
-	console.log(JSON.stringify(change))
+	//console.log(JSON.stringify(change))
 
 	})
 	
