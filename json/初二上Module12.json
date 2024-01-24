@@ -1,0 +1,69 @@
+[
+    {
+        "id": "20240124140460943",
+        "title": " 我们能做什么去帮助他?",
+        "option": [],
+        "answer": "What can we do to help him?",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404784872",
+        "title": "首先，弄清楚他怎么了。",
+        "option": [],
+        "answer": "First of all , find out what's wrong with him.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404390805",
+        "title": " 但是他有可能难以听到你或者和你说话",
+        "option": [
+            "ut"
+        ],
+        "answer": "B",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404280590",
+        "title": " 远离窗户和笨重的家具。",
+        "option": [],
+        "answer": " Stay away from windows and heavy furniture.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404477118",
+        "title": "\t在山里,要当心滚落的岩石。",
+        "option": [],
+        "answer": "In the mountains, be careful of falling rocks. ",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404181760",
+        "title": "\t总之，按照在学校里所学到的(地震)知识去做。",
+        "option": [],
+        "answer": "In short, follow what you learnt in school.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404991193",
+        "title": "\t蒂莉的老师很为她感到自豪。",
+        "option": [],
+        "answer": "Tilly's teacher was very proud of her.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404239891",
+        "title": " 地震总是发生得很突然，所以很难给予人们预警。",
+        "option": [
+            "arthquakes"
+        ],
+        "answer": "E",
+        "analysis": ""
+    },
+    {
+        "id": "202401241404904187",
+        "title": "\t保持镇静，尤其是当身边还有其他人的时候。",
+        "option": [],
+        "answer": "Keep calm, especially when you are with other people.",
+        "analysis": ""
+    }
+]

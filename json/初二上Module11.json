@@ -1,0 +1,72 @@
+[
+    {
+        "id": "202401241356854458",
+        "title": " 这真是个惊喜!",
+        "option": [],
+        "answer": "What a surprise!",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356765602",
+        "title": " 我们很高兴你喜欢它。",
+        "option": [],
+        "answer": "We're happy you like it.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356668285",
+        "title": " 你不是认真的吧!",
+        "option": [],
+        "answer": "You can't be serious!",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356748836",
+        "title": " 我在那里过得很愉快，并且注意到英式生活中一些有趣的事情。",
+        "option": [
+            "nglish"
+        ],
+        "answer": " I enjoyed my stay, and I noticed something interesting with the English way of life.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356380465",
+        "title": "\t比如，初次与某人见面时，你必须称呼先生或女士。",
+        "option": [],
+        "answer": "For example, you must say Mr or Mrs when you meet someone for the first time. ",
+        "analysis": ""
+    },
+    {
+        "id": "20240124135623891",
+        "title": "\t下午茶不仅仅是喝茶，而且是下午4点左右的一顿便餐。",
+        "option": [
+            "fternoon"
+        ],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356989588",
+        "title": "\t有一天，我们去拜访了一些朋友，并且一起喝了下午茶。",
+        "option": [],
+        "answer": "One day, we visited some friends and had afternoon tea together.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356369055",
+        "title": " 有一次我看到一位先生拍了拍一位年轻人的肩膀……",
+        "option": [],
+        "answer": "Once l noticed a gentleman touch a young man on the shoulder…",
+        "analysis": ""
+    },
+    {
+        "id": "202401241356179267",
+        "title": "\t在英国,你们可以在 17岁时开车吗?",
+        "option": [
+            "an",
+            "ngland?"
+        ],
+        "answer": "C",
+        "analysis": ""
+    }
+]

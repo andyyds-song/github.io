@@ -1,0 +1,60 @@
+[
+    {
+        "id": "202401241329134920",
+        "title": " 你(的脸色)看起来很苍白。你还好吗?",
+        "option": [],
+        "answer": "You look pale. Are you all right?",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329400915",
+        "title": " 那很危险!",
+        "option": [],
+        "answer": "That's very dangerous!",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329370079",
+        "title": " 不要和你的朋友们并肩骑车。",
+        "option": [],
+        "answer": "Don't ride side by side with your friends.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329390515",
+        "title": "\t当交通信号灯正要变成红色时，一辆汽车突然出现在拐角。",
+        "option": [],
+        "answer": "While the lights were changing to red, a car suddenly appeared round the corner.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329827751",
+        "title": "\t汽车恰好及时停了下来,但是男孩从自行车上摔了下来并伤到了膝盖。 ",
+        "option": [],
+        "answer": "The car stopped just in time, but the boy fell off his bike and hurt his knee. ",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329288976",
+        "title": "\t两次事故后,他答应听从我的劝告。",
+        "option": [
+            "fter"
+        ],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329658529",
+        "title": "\t-她偶尔看一眼姐姐的书。-我正试图捡起它(那条蛇)，突然它(蛇)又咬了我一口。",
+        "option": [],
+        "answer": "Once or twice she looked into her sister 's book.I was trying to pick it up when it bit me again.",
+        "analysis": ""
+    },
+    {
+        "id": "202401241329831636",
+        "title": "\t当蛇平躺在桌子上的时候,亨利快速拿起他的手机,拍了一张蛇的照片。",
+        "option": [],
+        "answer": "While the snake was lying on the table, Henry quickly picked up his mobile phone and took a photo with it.",
+        "analysis": ""
+    }
+]
