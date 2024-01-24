@@ -22,28 +22,28 @@
     },
     {
         "id": "202401241259493639",
-        "title": "\t老舍是一位伟大的作家。他尤其以他的话剧《茶馆》而出名。",
+        "title": "老舍是一位伟大的作家。他尤其以他的话剧《茶馆》而出名。",
         "option": [],
         "answer": "Lao She is a great writer. He's especially famous for his play Teahouse.",
         "analysis": ""
     },
     {
         "id": "20240124125924255",
-        "title": "\t你们待了多长时间? ",
+        "title": "你们待了多长时间? ",
         "option": [],
         "answer": "How long did you stay? ",
         "analysis": ""
     },
     {
         "id": "202401241259217933",
-        "title": "\t《茶馆》是老舍最著名的剧作之一。",
+        "title": "《茶馆》是老舍最著名的剧作之一。",
         "option": [],
         "answer": "Teahouse is one of Lao She's most famous plays.",
         "analysis": ""
     },
     {
         "id": "202401241259157861",
-        "title": "\t该剧有三幕，展示的是从 19 世纪末到 20世纪中期中国普通人的生活。",
+        "title": "该剧有三幕，展示的是从 19 世纪末到 20世纪中期中国普通人的生活。",
         "option": [
             "hina"
         ],
@@ -52,7 +52,7 @@
     },
     {
         "id": "202401241259711371",
-        "title": "\t他写了许多关于人们生活的戏剧、长篇小说和短篇小说,被誉为“人民艺术家”。",
+        "title": "他写了许多关于人们生活的戏剧、长篇小说和短篇小说,被誉为“人民艺术家”。",
         "option": [
             "rtist”"
         ],
