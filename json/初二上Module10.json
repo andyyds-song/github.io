@@ -1,7 +1,7 @@
 [
     {
         "id": "202401241347460169",
-        "title": " 你在开玩笑吧?",
+        "title": "你在开玩笑吧?",
         "option": [
             "re"
         ],
@@ -10,7 +10,7 @@
     },
     {
         "id": "202401241347961621",
-        "title": " 我希望我现在在澳大利亚。",
+        "title": "我希望我现在在澳大利亚。",
         "option": [
             "ustralia"
         ],
@@ -19,14 +19,14 @@
     },
     {
         "id": "202401241347240680",
-        "title": " 天气怎么样?",
+        "title": "天气怎么样?",
         "option": [],
         "answer": "What 's the weather like?",
         "analysis": ""
     },
     {
         "id": "202401241347872431",
-        "title": " 你想什么时候都行!",
+        "title": "你想什么时候都行!",
         "option": [
             "ny"
         ],
@@ -35,21 +35,21 @@
     },
     {
         "id": "202401241347539034",
-        "title": "\t去美国游玩的最佳时间是什么时候?",
+        "title": "去美国游玩的最佳时间是什么时候?",
         "option": [],
         "answer": "When is the best time to visit the US? ",
         "analysis": ""
     },
     {
         "id": "202401241347860273",
-        "title": "\t天气变得更加凉爽,绿叶开始变成金黄色然后变成棕色。",
+        "title": "天气变得更加凉爽,绿叶开始变成金黄色然后变成棕色。",
         "option": [],
         "answer": "The weather gets cooler, and the green leaves start to turn gold, then brown.",
         "analysis": ""
     },
     {
         "id": "20240124134753858",
-        "title": "\t如果你想去游览阿拉斯加，你最好在夏天去。",
+        "title": "如果你想去游览阿拉斯加，你最好在夏天去。",
         "option": [
             "laska,"
         ],
@@ -58,14 +58,14 @@
     },
     {
         "id": "202401241347305838",
-        "title": " 和其他地方相比，得克萨斯州和东南地区通常天气很热，阳光灿烂。",
+        "title": "和其他地方相比，得克萨斯州和东南地区通常天气很热，阳光灿烂。",
         "option": [],
         "answer": "In Texas and the southeast, it is usually very hot and sunny compared to other places.",
         "analysis": ""
     },
     {
         "id": "202401241347670230",
-        "title": "\t不要忘记随身带上一件暖和的毛衣。",
+        "title": "不要忘记随身带上一件暖和的毛衣。",
         "option": [
             "o"
         ],
@@ -74,14 +74,14 @@
     },
     {
         "id": "202401241347834472",
-        "title": "\t很高兴听说你可能会来英国游览。",
+        "title": "很高兴听说你可能会来英国游览。",
         "option": [],
         "answer": "lt is good to hear that you may visit Britain.",
         "analysis": ""
     },
     {
         "id": "202401241347675926",
-        "title": "\t你不必为此花很多钱。",
+        "title": "你不必为此花很多钱。",
         "option": [],
         "answer": "You will not have to pay much for it.",
         "analysis": ""
