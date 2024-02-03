@@ -23,9 +23,7 @@
     {
         "id": "202401241322569290",
         "title": "有一天，爱丽丝正和她姐姐坐在河边，她看到一只戴着手表的白兔。",
-        "option": [
-            "lice"
-        ],
+        "option": [],
         "answer": "One day, Alice was sitting with her sister by the river and she saw a white rabbit with a watch.",
         "analysis": ""
     },
@@ -39,11 +37,8 @@
     {
         "id": "202401241322544787",
         "title": "在英国,人人都知道这个故事。",
-        "option": [
-            "veryone",
-            "ritain"
-        ],
-        "answer": "E",
+        "option": [],
+        "answer": "Everyone in Britain knows the story.",
         "analysis": ""
     },
     {
