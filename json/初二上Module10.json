@@ -2,18 +2,14 @@
     {
         "id": "202401241347460169",
         "title": "你在开玩笑吧?",
-        "option": [
-            "re"
-        ],
-        "answer": "A",
+        "option": [],
+        "answer": "Are you joking?",
         "analysis": ""
     },
     {
         "id": "202401241347961621",
         "title": "我希望我现在在澳大利亚。",
-        "option": [
-            "ustralia"
-        ],
+        "option": [],
         "answer": "l wish l were in Australia now.",
         "analysis": ""
     },
@@ -50,9 +46,7 @@
     {
         "id": "20240124134753858",
         "title": "如果你想去游览阿拉斯加，你最好在夏天去。",
-        "option": [
-            "laska,"
-        ],
+        "option": [],
         "answer": "If you want to visit Alaska, you had better go in summer.",
         "analysis": ""
     },
@@ -66,10 +60,8 @@
     {
         "id": "202401241347670230",
         "title": "不要忘记随身带上一件暖和的毛衣。",
-        "option": [
-            "o"
-        ],
-        "answer": "D",
+        "option": [],
+        "answer": "Do not forget to bring a warm sweater with you.",
         "analysis": ""
     },
     {
