@@ -107,10 +107,8 @@
     {
         "id": "202403051304530686",
         "title": "但是我没法表达对去中国的兴奋之情!",
-        "option": [
-            "ut"
-        ],
-        "answer": "B",
+        "option": [],
+        "answer": "But I can't tell you how excited I am about going to China!",
         "analysis": ""
     },
     {
@@ -130,9 +128,7 @@
     {
         "id": "202403051304469033",
         "title": "我说汉语的时候会感到紧张……",
-        "option": [
-            "hinese"
-        ],
+        "option": [],
         "answer": "I feel nervous when l speak Chinese …",
         "analysis": ""
     },
@@ -167,11 +163,8 @@
     {
         "id": "202403051304654841",
         "title": "她在英语家庭作业方面向我寻求帮助，因为我擅长英语。",
-        "option": [
-            "nglish",
-            "nglish."
-        ],
-        "answer": "She asked me to help her with her English homework because I am good at English.\n",
+        "option": [],
+        "answer": "She asked me to help her with her English homework because I am good at English.",
         "analysis": ""
     }
 ]
