@@ -1,7 +1,7 @@
 [
     {
         "id": "202401241259894185",
-        "title": "-你想和我一起去老舍茶馆吗?--是的。-我想和你一起去。",
+        "title": "--你想和我一起去老舍茶馆吗?--是的。--我想和你一起去。",
         "option": [],
         "answer": "Do you want to come to Lao She Teahouse with me?Yes. l'd like to go with you.",
         "analysis": ""
@@ -43,18 +43,15 @@
     },
     {
         "id": "202401241259157861",
-        "title": "该剧有三幕，展示的是从 19 世纪末到 20世纪中期中国普通人的生活。",
-        "option": [
-            "hina"
-        ],
+        "title": "该剧有三幕，展示的是从19世纪末到20世纪中期中国普通人的生活。",
+        "option": [],
         "answer": "The play has three acts and shows the lives of common people in China from the end of the nineteenth century to the middle of the twentieth century.",
         "analysis": ""
-    },
-    {
-        "id": "202401241259711371",
-        "title": "他写了许多关于人们生活的戏剧、长篇小说和短篇小说,被誉为“人民艺术家”。",
+    }, {
+        "id": "202401241245674351",
+        "title": "他写了许多关于人们生活的戏剧、长篇小说和短篇小说,被誉为\"人民艺术家\"。",
         "option": [],
-         "answer": "He wrote many plays, novels, and short stories about people's lives, and was named \"the People's Artist\"."
+        "answer": "He wrote many plays, novels, and short stories about people's lives, and was named \"the People's Artist\".",
         "analysis": ""
     }
 ]
