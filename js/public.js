@@ -1,7 +1,6 @@
 const JSONList = [
-     { id: "2023", name: 'Terminus 终点站试题', describe: 'Terminus 终点站试题', file: 'Terminus 终点站试题.json'},
     { id: "2023", name: '测试', describe: '基础必背，简答题，', file: 'a.json'},
-    { id: "2024", name: '八下社政', describe: '基础必背，简答题，', file: '八下社政.json'},
+    { id: "2024", name: '测试ff', describe: '基础必背，简答题，', file: '八下社政.json'},
     { id: "2024", name: '初二(下)Module-1', describe: '基础必背，简答题，', file: '初二下Module1.json'},
     { id: "2023", name: '初二(上)Module-1', describe: '基础必背，简答题，', file: '初二上Module1.json'},
     { id: "2023", name: '初二(上)Module-2', describe: '基础必背，简答题，', file: '初二上Module2.json'},
